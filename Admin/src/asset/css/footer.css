@@ -151,7 +151,7 @@
 }
 
 .FooterTitle{
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Hind Siliguri', sans-serif;
     font-weight: 400;
     font-size: 20px!important;
     color: #ffffff;
@@ -159,24 +159,24 @@
 }
 
 .FooterDes{
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Hind Siliguri', sans-serif;
     font-weight: 300;
     font-size: 16px!important;
-    color: #8d8d8d;
+    color: #efefef;
     text-decoration: none!important;
     line-height: 22px;
 }
 
 .FooterInfoLinkText{
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Hind Siliguri', sans-serif;
     font-weight: 300;
     font-size: 16px!important;
-    color: #8d8d8d;
+    color: #efefef;
     text-decoration: none!important;
 }
 
 .FooterInfoLinkText:hover{
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Hind Siliguri', sans-serif;
     font-weight: 400;
     font-size: 16px!important;
     color: #29aafe!important;

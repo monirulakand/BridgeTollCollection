@@ -226,3 +226,8 @@
     text-align: center;
     background-color: rgba(21, 25, 42, 0.9);
 }
+
+.BridgeImage{
+    height: 250px;
+    width: 365px;
+}

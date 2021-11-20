@@ -20,25 +20,28 @@ class Footer extends Component {
                     <div className="container">
                         <div className="row">
                             <div className="col-xl-3 col-lg-3 col-md-3 col-sm-6 col-12">
-                                <h1 className="FooterTitle mb-3">About</h1>
-                                <h6 className="FooterDes">Arena Web Security is a sister concern of Arena Web Technology. Arena Web Security is a renowned IT security company in Bangladesh since its establishment in 2012.</h6>
+                                <h1 className="FooterTitle mb-3">আমাদের সম্পর্কে</h1>
+                                <h6 className="FooterDes"> সড়ক পরিবহন ও মহাসড়ক বিভাগ</h6>
+                                <h6 className="FooterDes"> গণপ্রজাতন্ত্রী বাংলাদেশ সরকার</h6>
+                                <h6 className="FooterDes"> সড়ক পরিবহন ও মহাসড়ক বিভাগ</h6>
+                                <h6 className="FooterDes"> গণপ্রজাতন্ত্রী বাংলাদেশ সরকার</h6>
                             </div>
                             <div className="col-xl-3 col-lg-3 col-md-3 col-sm-6 col-12">
-                                <h1 className="FooterTitle mb-3">Address</h1>
-                                <h6 className="FooterDes"><IoLocationOutline/> House No-1, BLOCK-B Banasree, Main Road Rampura, Dhaka - 1219</h6>
-                                <h6 className="FooterDes"><FaMobileAlt/> +880 1310&nbsp;333&nbsp;444, <br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+880 1779&nbsp;224&nbsp;640</h6>
-                                <h6 className="FooterDes"> <HiOutlineMail/> info@arenawebsecurity.net</h6>
-                                <h6 className="FooterDes"><VscGlobe/> www.arenawebsecurity.net</h6>
+                                <h1 className="FooterTitle mb-3">তথ্য ও জিজ্ঞাসা</h1>
+                                <h6 className="FooterDes">জিজ্ঞাসা</h6>
+                                <h6 className="FooterDes">সহায়িকা</h6>
+                                <h6 className="FooterDes"> প্রাইভেসি পলিসি</h6>
+                                <h6 className="FooterDes"> অন্যান্য সহযোগী প্রতিষ্ঠানসমূহ</h6>
                             </div>
                             <div className="col-xl-3 col-lg-3 col-md-3 col-sm-6 col-12">
-                                <h1 className="FooterTitle mb-3">Information</h1>
+                                <h1 className="FooterTitle mb-3">কারিগরি সহায়তায় -</h1>
                                 <ul className="footer-links">
                                     <img src={img2} alt=""/>
                                 </ul>
                             </div>
 
                             <div className="col-xl-3 col-lg-3 col-md-3 col-sm-6 col-12">
-                                <h1 className="FooterTitle mb-3">Our Courses</h1>
+                                <h1 className="FooterTitle mb-3">সার্বিক তত্ত্বাবধায়নে-</h1>
                                 <ul className="footer-links">
                                     <img src={img1} alt=""/>
                                 </ul>
