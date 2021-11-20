@@ -204,7 +204,7 @@
     color: #595959;
 }
 
-.video-container {
+/*.video-container {
     background-color: rgb(255, 255, 255);
     height: 450px;
     width: 100%;
@@ -225,7 +225,31 @@
     position: relative;
     text-align: center;
     background-color: rgba(21, 25, 42, 0.9);
+}*/
+
+.videoCss {
+    background-color: rgb(255, 255, 255);
+    height: 210px;
+    width: 100%;
+    position: relative;
+    margin-bottom: 0!important;
 }
+.videoCss video {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    object-fit: cover;
+    z-index: 0;
+    background: #131518;
+}
+.videoCss .videoOverContent {
+    height: 100%;
+    z-index: 1;
+    position: relative;
+    text-align: center;
+    background-color: rgba(21, 25, 42, 0.9);
+}
+
 
 .BridgeImage{
     height: 250px;

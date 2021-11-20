@@ -4,6 +4,7 @@ import {Container, Nav, Navbar} from "react-bootstrap";
 import {Link, NavLink} from "react-router-dom";
 import logo from "../../../asset/image/bd.png"
 import logo1 from "../../../asset/image/mujib.png"
+import CctvMonitoring from "../../CCTVMonitoring/CCTVMonitoring";
 class TopNavBar extends Component {
     render() {
         return (
@@ -20,10 +21,14 @@ class TopNavBar extends Component {
                                 <h6 className="navTitleFont">সড়ক পরিবহন ও সেতু মন্ত্রণালয়</h6>
                             </Nav>
                             <Nav className="ml-auto">
-                                <Nav.Link> <NavLink exact className="nav-font mt-4" to="/Analytics">ANALYTICS</NavLink></Nav.Link>
-                                <Nav.Link> <NavLink exact className="nav-font mt-4" to="/AllTollRate">TOLL RATE</NavLink></Nav.Link>
-                                <Nav.Link> <NavLink exact className="nav-font mt-4" to="/Operator">OPERATOR</NavLink></Nav.Link>
-                                <Nav.Link> <NavLink exact className="btn-sm NavLogOut" to="/">LOG OUT</NavLink></Nav.Link>
+                                <Nav.Link> <NavLink exact className="nav-font mt-5" to="/Analytics">ANALYTICS</NavLink></Nav.Link>
+                                <Nav.Link> <NavLink exact className="nav-font mt-5" to="/AllTollRate">TOLL RATE</NavLink></Nav.Link>
+                                <Nav.Link> <NavLink exact className="nav-font mt-5" to="/Operator">OPERATOR</NavLink></Nav.Link>
+                                <Nav.Link> <NavLink exact className="btn NavMonitoring" type="button" to="/Monitoring">
+                                        <span className="spinner-grow spinner-grow-sm" role="status" aria-hidden="true"></span>
+                                        CCTV
+                                    </NavLink></Nav.Link>
+                                <Nav.Link> <NavLink exact className="btn NavLogOut" to="/">LOG OUT</NavLink></Nav.Link>
                             </Nav>
                         </Navbar.Collapse>
                     </Container>

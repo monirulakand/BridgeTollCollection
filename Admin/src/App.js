@@ -15,6 +15,7 @@ import SixMonthPage from "./pages/SixMonthPage/SixMonthPage";
 import OneYearPage from "./pages/OneYearPage/OneYearPage";
 import AllTimePage from "./pages/AllTimePage/AllTimePage";
 import OperatorPage from "./pages/OperatorPage/OperatorPage";
+import CctvMonitoringPage from "./pages/CCTVMonitoringPage/CCTVMonitoringPage";
 
 function App() {
   return (
@@ -24,6 +25,7 @@ function App() {
                    <Route exact path="/" render={(props) => <LoginPage {...props} key={Date.now()} />}/>
                    <Route exact path="/Analytics" render={(props) => <HomePage {...props} key={Date.now()} />}/>
                    <Route exact path="/Operator" render={(props) => <OperatorPage {...props} key={Date.now()} />}/>
+                   <Route exact path="/Monitoring" render={(props) => <CctvMonitoringPage {...props} key={Date.now()} />}/>
                    <Route exact path="/AllTollRate" render={(props) => <TollRatePage {...props} key={Date.now()} />}/>
                    <Route exact path="/OneHour" render={(props) => <OneHourPage {...props} key={Date.now()} />}/>
                    <Route exact path="/OneDay" render={(props) => <OneDayPage {...props} key={Date.now()} />}/>

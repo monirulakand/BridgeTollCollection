@@ -41,8 +41,8 @@
     background-color: #ffffff;
     font-family: 'Roboto', sans-serif;
     color: #000000;
-    font-weight: 500;
-    font-size: 16px;
+    font-weight: 400;
+    font-size: 14px;
     text-decoration: none!important;
 }
 
@@ -50,8 +50,26 @@
     background-color: #ffffff;
     font-family: 'Roboto', sans-serif;
     color: #59a8e1;
-    font-weight: 700;
-    font-size: 16px;
+    font-weight: 500;
+    font-size: 14px;
+    text-decoration: none!important;
+}
+
+.NavMonitoring{
+    background-color: #bb0a16;
+    font-family: 'Roboto', sans-serif;
+    color: #ffffff;
+    font-weight: 400;
+    font-size: 14px;
+    text-decoration: none!important;
+}
+
+.NavMonitoring:hover{
+    background-color: #ffffff;
+    font-family: 'Roboto', sans-serif;
+    color: #59a8e1;
+    font-weight: 500;
+    font-size: 14px;
     text-decoration: none!important;
 }
 
@@ -67,5 +85,4 @@
     text-decoration: none!important;
     margin-top: 15px;
 }
-
 
