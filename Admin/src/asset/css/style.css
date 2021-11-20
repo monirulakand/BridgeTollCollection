@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@300;400;500;600;700&display=swap');
+@import "nav.css";
+@import "typo.css";
+@import "card.css";
+@import "body.css";
+@import "footer.css";
+@import "common.css";
+
+@media print {
+    body * {
+        visibility: hidden;
+    }
+
+    #not-print * {
+        display: none;
+    }
+
+    #to-print, #to-print * {
+        visibility: visible;
+    }
+
+    #to-print {
+        display: block !important;
+        position: fixed;
+        left: 20px !important;
+        top: 0;
+        width: 1000px !important;
+        height: 99%;
+    }
+}
