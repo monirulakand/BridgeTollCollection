@@ -55,9 +55,9 @@ class Footer extends Component {
 
                             <div className="col-md-4 col-sm-6 col-xs-12">
                                 <ul className="social-icons">
-                                    <li><a className="facebook" target="_blank" href=""><FaFacebookSquare /></a></li>
-                                    <li><a className="linkedin" target="_blank" href=""><FaLinkedin/></a></li>
-                                    <li><a className="youTube" target="_blank" href=""><FiYoutube/></a></li>
+                                    <li><a className="facebook" target="_blank" href=""> </a></li>
+                                    <li><a className="linkedin" target="_blank" href=""> </a></li>
+                                    <li><a className="youTube" target="_blank" href=""> </a></li>
                                 </ul>
                             </div>
                         </div>

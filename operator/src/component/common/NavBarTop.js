@@ -19,6 +19,7 @@ class NavBarTop extends Component {
                             <h6 className="navTitleFont">সড়ক পরিবহন ও সেতু মন্ত্রণালয়</h6>
                         </Nav>
                         <Nav className="ml-auto">
+                            <Nav.Link> <NavLink exact className="nav-font mt-5" to="/Home">HOME</NavLink></Nav.Link>
                             <Nav.Link> <NavLink exact className="nav-font mt-5" to="/AllTollCollection">COLLECTION</NavLink></Nav.Link>
                             <Nav.Link> <NavLink exact className="nav-font mt-5" to="/AllTollRate">TOLL RATE</NavLink></Nav.Link>
                             <Nav.Link> <NavLink exact className="btn NavLogOut" to="/">LOG OUT</NavLink></Nav.Link>

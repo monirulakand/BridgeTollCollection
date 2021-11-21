@@ -12,9 +12,7 @@ import bridge4 from "../../asset/image/bridge/rupsha.jpg"
 import bridge5 from "../../asset/image/bridge/bangabandhu_bridge.png"
 import bridge6 from "../../asset/image/bridge/bangabandhu_bridge1.jpg"
 import bridge7 from "../../asset/image/bridge/amanat.jpg"
-
 class Home extends Component {
-
     componentDidMount() {
         window.scroll(0,0)
     }
@@ -59,9 +57,6 @@ class Home extends Component {
             <Fragment>
                 <div className="container video-container">
                     <div className="row">
-                        {/*<video autoPlay muted loop>
-                            <source src={Video1} type="video/mp4"/>
-                        </video>*/}
                         <div className="col-lg-3 col-md-3 float-left">
                             <div className="mt-4">
                                 <select className="dropdownBtn form-control" aria-label="Default select example">

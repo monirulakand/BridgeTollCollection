@@ -1,19 +1,18 @@
 import React, {Component} from 'react';
 import NavBarTop from "../../component/common/NavBarTop";
-import Home from "../../component/home/Home";
+import TollCollection from "../../component/tollCollection/TollCollection";
 import Footer from "../../component/common/Footer";
 
-
-class HomePage extends Component {
+class TollCollectionPage extends Component {
     render() {
         return (
             <div>
-               <NavBarTop/>
-                <Home/>
+                <NavBarTop/>
+                <TollCollection/>
                 <Footer/>
             </div>
         );
     }
 }
 
-export default HomePage;
+export default TollCollectionPage;

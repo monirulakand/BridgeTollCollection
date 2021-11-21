@@ -5,52 +5,43 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e559be25-94da-4961-8c03-e43b7259c201" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/operator/src/asset/css/animate.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/operator/src/asset/css/body.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/operator/src/asset/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/operator/src/asset/css/card.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/operator/src/asset/css/common.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/operator/src/asset/css/fontawesome.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/operator/src/asset/css/footer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/operator/src/asset/css/nav.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/operator/src/asset/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/operator/src/asset/css/typo.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/operator/src/asset/image/bd.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/operator/src/asset/image/bridge/amanat.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/operator/src/asset/image/bridge/bangabandhu_bridge.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/operator/src/asset/image/bridge/bangabandhu_bridge1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/operator/src/asset/image/bridge/padma.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/operator/src/asset/image/bridge/padma1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/operator/src/asset/image/bridge/padma2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/operator/src/asset/image/bridge/rupsha.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/operator/src/asset/image/ict.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/operator/src/asset/image/mujib.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/operator/src/asset/image/operator.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/operator/src/asset/image/org.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/operator/src/asset/image/print.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/operator/src/asset/image/taka1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/operator/src/asset/image/taka2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/operator/src/asset/image/vehicle1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/operator/src/asset/image/vehicle12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/operator/src/component/common/Footer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/operator/src/component/common/NavBarTop.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/operator/src/component/home/Home.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/operator/src/component/login/LoginOperator.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/operator/src/pages/HomePage/HomePage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/operator/src/pages/LoginPage/LoginPage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/operator/src/pages/TollRatePage/TollRatePage.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Admin/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Admin/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operator/src/asset/image/vehicle/bus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operator/src/asset/image/vehicle/bycicle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operator/src/asset/image/vehicle/car.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operator/src/asset/image/vehicle/delivery-truck.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operator/src/asset/image/vehicle/pickup-truck.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operator/src/asset/image/vehicle/school-bus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operator/src/asset/image/vehicle/shipment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operator/src/component/TollPerTime/All.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operator/src/component/TollPerTime/OneDay.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operator/src/component/TollPerTime/OneHour.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operator/src/component/TollPerTime/OneMonth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operator/src/component/TollPerTime/OneWeek.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operator/src/component/TollPerTime/OneYear.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operator/src/component/TollPerTime/SixMonth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operator/src/component/tollCollection/TollCollection.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operator/src/component/tollRate/TollRate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operator/src/pages/AllTimePage/AllTimePage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operator/src/pages/OneDayPage/OneDayPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operator/src/pages/OneHourPage/OneHourPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operator/src/pages/OneMonthPage/OneMonthPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operator/src/pages/OneWeekPage/OneWeekPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operator/src/pages/OneYearPage/OneYearPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operator/src/pages/SixMonthPage/SixMonthPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operator/src/pages/TollCollectionPage/TollCollectionPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Admin/src/component/common/Footer/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/Admin/src/component/common/Footer/Footer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Admin/src/component/common/NavBar/TopNavBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/Admin/src/component/common/NavBar/TopNavBar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Admin/src/component/home/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/Admin/src/component/home/Home.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/operator/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/operator/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/operator/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/operator/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/operator/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/operator/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/operator/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/operator/src/App.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/operator/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/operator/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/operator/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/operator/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/operator/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/operator/src/asset/css/common.css" beforeDir="false" afterPath="$PROJECT_DIR$/operator/src/asset/css/common.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/operator/src/asset/css/footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/operator/src/asset/css/footer.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/operator/src/asset/css/nav.css" beforeDir="false" afterPath="$PROJECT_DIR$/operator/src/asset/css/nav.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/operator/src/component/common/NavBarTop.js" beforeDir="false" afterPath="$PROJECT_DIR$/operator/src/component/common/NavBarTop.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/operator/src/component/home/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/operator/src/component/home/Home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/operator/src/pages/HomePage/HomePage.js" beforeDir="false" afterPath="$PROJECT_DIR$/operator/src/pages/HomePage/HomePage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/operator/src/pages/TollRatePage/TollRatePage.js" beforeDir="false" afterPath="$PROJECT_DIR$/operator/src/pages/TollRatePage/TollRatePage.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +69,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/operator/src/asset" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/operator/src/pages" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -89,6 +80,9 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\BridgeTollCollection\operator\src\pages" />
+      <recent name="E:\BridgeTollCollection\operator\src\component" />
+      <recent name="E:\BridgeTollCollection\operator\src\asset\image\vehicle" />
       <recent name="E:\BridgeTollCollection\operator\src\asset" />
       <recent name="E:\BridgeTollCollection\operator\src\asset\css" />
     </key>
@@ -101,7 +95,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1637472285670</updated>
-      <workItem from="1637472288139" duration="3553000" />
+      <workItem from="1637472288139" duration="5949000" />
+      <workItem from="1637479296868" duration="5000" />
+      <workItem from="1637479328287" duration="51000" />
+      <workItem from="1637479385326" duration="11220000" />
     </task>
     <servers />
   </component>
@@ -118,5 +115,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

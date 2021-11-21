@@ -137,6 +137,115 @@
     border: none!important;
 }
 
+.TollCardType1{
+    border-radius: 5px!important;
+    height: auto;
+    width: 100%;
+    border-color: #1b1e21;
+    background-color: #6B7AA1;
+    padding:10px 20px 10px 20px;
+    border: none!important;
+}
+
+.TollCardType2{
+    border-radius: 5px!important;
+    height: auto;
+    width: 100%;
+    border-color: #1b1e21;
+    background-color: #6B7AA1;
+    padding:10px 20px 10px 20px;
+    border: none!important;
+}
+
+.TollCardType3{
+    border-radius: 5px!important;
+    height: auto;
+    width: 100%;
+    border-color: #1b1e21;
+    background-color: #6B7AA1;
+    padding:10px 20px 10px 20px;
+    border: none!important;
+}
+
+.TollCardType4{
+    border-radius: 5px!important;
+    height: auto;
+    width: 100%;
+    border-color: #1b1e21;
+    background-color: #6B7AA1;
+    padding:10px 20px 10px 20px;
+    border: none!important;
+}
+
+.TollCardType5{
+    border-radius: 5px!important;
+    height: auto;
+    width: 100%;
+    border-color: #1b1e21;
+    background-color: #6B7AA1;
+    padding:10px 20px 10px 20px;
+    border: none!important;
+}
+.TollCardType6{
+    border-radius: 5px!important;
+    height: auto;
+    width: 100%;
+    border-color: #1b1e21;
+    background-color: #6B7AA1;
+    padding:10px 20px 10px 20px;
+    border: none!important;
+}
+
+.TollCardType7{
+    border-radius: 5px!important;
+    height: auto;
+    width: 100%;
+    border-color: #1b1e21;
+    background-color: #6B7AA1;
+    padding:10px 20px 10px 20px;
+    border: none!important;
+}
+
+.TollCardType8{
+    border-radius: 5px!important;
+    height: auto;
+    width: 100%;
+    border-color: #1b1e21;
+    background-color: #6B7AA1;
+    padding:10px 20px 10px 20px;
+    border: none!important;
+}
+
+.TollCardType9{
+    border-radius: 5px!important;
+    height: auto;
+    width: 100%;
+    border-color: #1b1e21;
+    background-color: #6B7AA1;
+    padding:10px 20px 10px 20px;
+    border: none!important;
+}
+
+.TollCardType10{
+    border-radius: 5px!important;
+    height: auto;
+    width: 100%;
+    border-color: #1b1e21;
+    background-color: #6B7AA1;
+    padding:10px 20px 10px 20px;
+    border: none!important;
+}
+
+.TollCardType11{
+    border-radius: 5px!important;
+    height: auto;
+    width: 100%;
+    border-color: #1b1e21;
+    background-color: #6B7AA1;
+    padding:10px 20px 10px 20px;
+    border: none!important;
+}
+
 .TollImg{
     display: block;
     width: auto;
@@ -177,8 +286,6 @@
     box-shadow: none!important;
 }
 
-
-
 .OperatorImg{
     display: block;
     width: auto;
@@ -190,18 +297,29 @@
     min-height: 60px;
 }
 
-.OperatorTitle{
-    font-family: 'Roboto', sans-serif;
-    font-weight: 400;
-    font-size: 18px;
-    color: #7D58A5FF;
+.VehicleImg{
+    display: block;
+    width: auto;
+    height: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0;
+    min-width: 60px;
+    min-height: 60px;
 }
 
-.OperatorDes{
+.VehicleTitle{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    color: #e2e1e1;
+}
+
+.VehiclePrice{
     font-family: 'Roboto', sans-serif;
     font-weight: 300;
-    font-size: 14px;
-    color: #595959;
+    font-size: 16px;
+    color: #d5d5d5;
 }
 
 /*.video-container {
@@ -250,8 +368,31 @@
     background-color: rgba(21, 25, 42, 0.9);
 }
 
-
 .BridgeImage{
     height: 250px;
     width: 365px;
 }
+
+.CollectionModalBody{
+    height: 200px;
+    width: 400px;
+}
+
+.ToastMarginTop{
+    margin-top: 100px;
+}
+
+.ModalTextType{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    color: #201f1f;
+}
+
+.ModalTextPrice{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 22px;
+    color: #981515;
+}
+
