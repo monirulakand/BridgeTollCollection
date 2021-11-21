@@ -1,11 +1,6 @@
-import React, {Component, Fragment} from 'react';
-import {
-    FaFacebookSquare,
-    FaLinkedin,
-    FiYoutube,
-} from "react-icons/all";
-import img1 from "../../../asset/image/ict.png"
-import img2 from "../../../asset/image/org.png"
+import React, {Component,Fragment} from 'react';
+import img2 from "../../asset/image/org.png";
+import img1 from "../../asset/image/ict.png";
 
 class Footer extends Component {
     render() {
@@ -48,16 +43,16 @@ class Footer extends Component {
                     <div className="container">
                         <div className="row">
                             <div className="col-md-8 col-sm-6 col-xs-12">
-                               {/* <p className="copyright-text">Copyright &copy; 2021 All Rights Reserved by
-                                    <a className="FooterInfoLinkText" target="_blank" href=""> Arena Web Security</a>.
-                                </p>*/}
+                                {/* <p className="copyright-text">Copyright &copy; 2021 All Rights Reserved by
+                                <a className="FooterInfoLinkText" target="_blank" href=""> Arena Web Security</a>.
+                            </p>*/}
                             </div>
 
                             <div className="col-md-4 col-sm-6 col-xs-12">
                                 <ul className="social-icons">
-                                    <li><a className="facebook" target="_blank" href=""><FaFacebookSquare /></a></li>
-                                    <li><a className="linkedin" target="_blank" href=""><FaLinkedin/></a></li>
-                                    <li><a className="youTube" target="_blank" href=""><FiYoutube/></a></li>
+                                    <li><a className="facebook" target="_blank" href=""> </a></li>
+                                    <li><a className="linkedin" target="_blank" href=""> </a></li>
+                                    <li><a className="youTube" target="_blank" href=""> </a></li>
                                 </ul>
                             </div>
                         </div>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e559be25-94da-4961-8c03-e43b7259c201" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/operator/src/asset/css/animate.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operator/src/asset/css/body.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operator/src/asset/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operator/src/asset/css/card.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operator/src/asset/css/common.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operator/src/asset/css/fontawesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operator/src/asset/css/footer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operator/src/asset/css/nav.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operator/src/asset/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operator/src/asset/css/typo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operator/src/asset/image/bd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operator/src/asset/image/bridge/amanat.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operator/src/asset/image/bridge/bangabandhu_bridge.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operator/src/asset/image/bridge/bangabandhu_bridge1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operator/src/asset/image/bridge/padma.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operator/src/asset/image/bridge/padma1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operator/src/asset/image/bridge/padma2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operator/src/asset/image/bridge/rupsha.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operator/src/asset/image/ict.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operator/src/asset/image/mujib.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operator/src/asset/image/operator.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operator/src/asset/image/org.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operator/src/asset/image/print.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operator/src/asset/image/taka1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operator/src/asset/image/taka2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operator/src/asset/image/vehicle1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operator/src/asset/image/vehicle12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operator/src/component/common/Footer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operator/src/component/common/NavBarTop.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operator/src/component/home/Home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operator/src/component/login/LoginOperator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operator/src/pages/HomePage/HomePage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operator/src/pages/LoginPage/LoginPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operator/src/pages/TollRatePage/TollRatePage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Admin/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Admin/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Admin/src/component/common/Footer/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/Admin/src/component/common/Footer/Footer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Admin/src/component/common/NavBar/TopNavBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/Admin/src/component/common/NavBar/TopNavBar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/operator/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/operator/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/operator/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/operator/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/operator/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/operator/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/operator/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/operator/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/operator/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/operator/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/operator/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/operator/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/operator/src/index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="21DOdf1UIzDqIUnDsR8jwX6HzNG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/operator/src/asset" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\BridgeTollCollection\operator\src\asset" />
+      <recent name="E:\BridgeTollCollection\operator\src\asset\css" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e559be25-94da-4961-8c03-e43b7259c201" name="Changes" comment="" />
+      <created>1637472285670</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637472285670</updated>
+      <workItem from="1637472288139" duration="3553000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

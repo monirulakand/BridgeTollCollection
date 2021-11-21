@@ -1,24 +1,24 @@
-import logo from './logo.svg';
-import './App.css';
+import React, {Fragment} from 'react';
+import "./asset/css/bootstrap.min.css";
+import "./asset/css/fontawesome.css";
+import "./asset/css/animate.min.css";
+import './asset/css/style.css';
+import {BrowserRouter, Route, Switch} from "react-router-dom";
+import LoginPage from "./pages/LoginPage/LoginPage";
+import HomePage from "./pages/HomePage/HomePage";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+      <Fragment>
+        <BrowserRouter>
+          <Switch>
+            <Route exact path="/" render={(props) => <LoginPage {...props} key={Date.now()} />}/>
+              <Route exact path="/Home" render={(props) => <HomePage {...props} key={Date.now()} />}/>
+              <Route exact path="/AllTollCollection" render={(props) => <HomePage {...props} key={Date.now()} />}/>
+              <Route exact path="/AllTollRate" render={(props) => <HomePage {...props} key={Date.now()} />}/>
+          </Switch>
+        </BrowserRouter>
+      </Fragment>
   );
 }
 
