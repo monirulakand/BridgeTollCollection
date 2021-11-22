@@ -4,7 +4,6 @@ import {Link} from "react-router-dom";
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
-import Video1 from "../../asset/video/back.mp4"
 import bridge1 from "../../asset/image/bridge/padma.jpg"
 import bridge2 from "../../asset/image/bridge/padma1.jpg"
 import bridge3 from "../../asset/image/bridge/padma2.jpg"

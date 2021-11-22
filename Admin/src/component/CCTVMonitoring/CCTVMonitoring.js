@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import Video1 from "../../asset/video/back.mp4"
+import Video1 from "../../asset/video/toll.mp4"
 
 class CctvMonitoring extends Component {
     render() {
